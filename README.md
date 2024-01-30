@@ -57,4 +57,4 @@ In this case study, we have experimented with models such as Conventional Neural
 - [https://www.researchgate.net/publication/303626451_Query-by- Example_Image_Retrieval_in_Microsoft_SQL_Server ](https://www.researchgate.net/publication/303626451_Query-by-Example_Image_Retrieval_in_Microsoft_SQL_Server)
 - [https://link.springer.com/chapter/10.1007/11840930_3 ](https://link.springer.com/chapter/10.1007/11840930_3)
 
-For implementation details and complete report, please view: 
+For implementation details and complete report, please view: Report_group_6_Text Query of Images.pdf 
